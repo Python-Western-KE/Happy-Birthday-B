@@ -6,6 +6,9 @@ Happy birthday using PYTHON && Spreadsheets.
 <p align="center">or just</p>
 <pre>$ pip install openpyxl</pre>
 <p>You're ready to go! <code> openpyxl</code> library is now installed</p>
+<h3>Getting started </h3>
+<p>To run the code open the terminal and run <code>main.py</code></p>
+<pre>$ py main.py</pre>
 
 <h1 align=center> Contributors ❤️ </h1>
 <p align="center">
